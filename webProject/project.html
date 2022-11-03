@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+            table,
+            th,
+            td {
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+
+            td {
+                padding: 20px 40px;
+                min-width: 20px;
+                max-width: 80px;
+            }
+
+            h3 {
+                display: inline-block;
+                padding: 3px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <section style="display: flex;">
+            <table border="1px">
+                <tr>
+                    <td>Name</td>
+                    <td>Sat</td>
+                    <td>Sun</td>
+                    <td>Wed</td>
+                </tr>
+
+                <tr>
+                    <td>This is name</td>
+                    <!-- <td rowspan="3" id="r-1">
+                        <h3>Hello</h3>
+                    </td> -->
+                    <td rowspan="3" ondrop="dragDrop(event)" ondragover="allowDrop(event)" id="r-1"></td>
+                    <td rowspan="3" ondrop="dragDrop(event)" ondragover="allowDrop(event)" id="r-2"></td>
+                    <td rowspan="3" ondrop="dragDrop(event)" ondragover="allowDrop(event)" id="r-3"></td>
+                </tr>
+
+            </table>
+
+            <div class="base" ondrop="dragDrop(event)" ondragover="allowDrop(event)" id="Course_Container">
+                <h3 draggable="true" ondragstart="dragStart(event)" class="dgable" id="crs1">Course-1</h3>
+                <h3 draggable="true" ondragstart="dragStart(event)" class="dgable" id="crs11">Course-1</h3>
+                <h3 draggable="true" ondragstart="dragStart(event)" class="dgable" id="crs2">Course-2</h3>
+                <h3 draggable="true" ondragstart="dragStart(event)" class="dgable" id="crs3">Course-3</h3>
+                <h3 draggable="true" ondragstart="dragStart(event)" class="dgable" id="crs4">Course-4</h3>
+                <h3 draggable="true" ondragstart="dragStart(event)" class="dgable" id="crs5">Course-5</h3>
+            </div>
+        </section>
+
+
+        <script src="JS/project.js"></script>
+    </body>
+
+</html>
