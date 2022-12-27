@@ -14,3 +14,5 @@ https://docs.google.com/presentation/d/1ztlkH1D709npLGkBE1x8xfuhWOeTQ_5d/edit?us
 1.2 -> https://drive.google.com/file/d/1szMtMT_K6oyI0M6MLszidI05uGVco_tU/view?usp=share_link
 
 1.3 -> https://drive.google.com/file/d/1q3W2_4ctWWVGLjO3AIK-_mp7onicCrgi/view?usp=share_link
+
+-> https://docs.google.com/document/d/1NPWREugCK_xx9WEbrLJiScdAR4KaBHgF/edit?usp=share_link&ouid=100171614600270688299&rtpof=true&sd=true
