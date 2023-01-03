@@ -16,3 +16,6 @@ https://docs.google.com/presentation/d/1ztlkH1D709npLGkBE1x8xfuhWOeTQ_5d/edit?us
 1.3 -> https://drive.google.com/file/d/1q3W2_4ctWWVGLjO3AIK-_mp7onicCrgi/view?usp=share_link
 
 -> https://docs.google.com/document/d/1NPWREugCK_xx9WEbrLJiScdAR4KaBHgF/edit?usp=share_link&ouid=100171614600270688299&rtpof=true&sd=true
+
+
+-> https://drive.google.com/file/d/1vvxF0CdMw73uAjtrRu7xuTLi_N6w29b8/view?usp=share_link
