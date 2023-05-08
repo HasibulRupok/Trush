@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibulhasanrupok/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/hasibulrupok)
-[![Facebook](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://facebook.com/rupok.4)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://facebook.com/rupok.4)
 
 ## Summary
 
