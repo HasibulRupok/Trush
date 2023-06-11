@@ -63,3 +63,7 @@ Passionate and dedicated software engineer with a strong foundation in computer 
 - Bengali (Native)
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hasibulhasanrupok/) or [GitHub](https://github.com/your-github-username) to discuss collaboration opportunities or learn more about my projects.
+
+
+
+https://docs.google.com/presentation/d/1y4V3sHx5qo7gZcDiU-lzH-nzTCRlecxt/edit?usp=sharing&ouid=114425758988330167995&rtpof=true&sd=true
