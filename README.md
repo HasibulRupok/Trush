@@ -67,3 +67,6 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hasibulh
 
 
 https://docs.google.com/presentation/d/1y4V3sHx5qo7gZcDiU-lzH-nzTCRlecxt/edit?usp=sharing&ouid=114425758988330167995&rtpof=true&sd=true
+
+FYDP presentation 3
+https://docs.google.com/presentation/d/1NTbt4hWAMvxuHPB1s_xk_PzgLsknIK42LYFMWmQvv1w/edit?usp=sharing
