@@ -22,6 +22,9 @@ git push -u origin main
 ### course Outline: 
 https://docs.google.com/document/d/108gdBYo23EVOQlLlQW6YgA_gk1DDLCQu/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
 
+### Intro to TOC
+https://docs.google.com/presentation/d/1NJsgPdDIy5aVXnv7kzPoVl32Bhs9jJrhz1l-ENQej8Y/edit?usp=sharing
+
 # DM
 ### Course Outline: 
 https://docs.google.com/document/d/12hyo_ltAh1Ro8KT-FLFBF5nsrDhH3ZW_/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
