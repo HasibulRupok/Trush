@@ -31,3 +31,5 @@ https://docs.google.com/document/d/12hyo_ltAh1Ro8KT-FLFBF5nsrDhH3ZW_/edit?usp=sh
 
 ### intro
 https://docs.google.com/presentation/d/1b10uUS-fu1ckPr1iIM2kESyBq6kNb3bC/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
+### First Slide:
+https://docs.google.com/presentation/d/1lcTUDEccDqpkS9N5vQKHcMEtka3wQUcO/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
