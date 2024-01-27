@@ -34,5 +34,8 @@ https://docs.google.com/presentation/d/1b10uUS-fu1ckPr1iIM2kESyBq6kNb3bC/edit?us
 ### First Slide:
 https://docs.google.com/presentation/d/1lcTUDEccDqpkS9N5vQKHcMEtka3wQUcO/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
 
+https://docs.google.com/presentation/d/1q-7Y7iwaWfgtDB0LxSlpQwRnkYryoxEJ/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1KTTo2tR1Api9SoOW-Jg0Ic5TD45p4Ly7/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
+
 # SQA Presentaion Slide
 https://docs.google.com/presentation/d/1ehn9w--pWwkkT_7U82NZJ92vwCS6-CL40z7usQ0Onbg/edit?usp=sharing
