@@ -20,5 +20,5 @@ git push -u origin main
 
 
 
-# FYDP Final Presentation Slide:
-https://docs.google.com/presentation/d/1wxW3b7TYRxslcOwV0SHva2KbyGXOxK-N/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
+# DM Practice Slide:
+https://docs.google.com/presentation/d/1ozO6bH9ESa_eUGME-rr0dJDfZbvYsJwIP-cspvR0BTM/edit?usp=sharing
