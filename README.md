@@ -18,7 +18,4 @@ git remote add origin https://github.com/HasibulRupok/pic-reach.git
 git push -u origin main
 
 
-
-
-# DM Practice Slide:
-https://docs.google.com/presentation/d/1ozO6bH9ESa_eUGME-rr0dJDfZbvYsJwIP-cspvR0BTM/edit?usp=sharing
+`https://docs.google.com/presentation/d/1bHXA9TM8tY41zVwUxXTxrAIAn2JuRIDY1JypT3bDUtE/edit?usp=sharing`
