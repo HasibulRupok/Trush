@@ -18,10 +18,8 @@ git remote add origin https://github.com/HasibulRupok/pic-reach.git
 git push -u origin main
 
 
-`https://docs.google.com/presentation/d/1jcbJkENdFur7DaHIbXkuW4MnNM1N5jsb/edit?usp=sharing&ouid=100171614600270688299&rtpof=true&sd=true`
+## CSE1112 Course Outline
+`https://docs.google.com/document/d/1IIv9KHAcruItye-TJz0H035Q-C1fTlFG/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true`
 
-# Turing Machine
-`https://docs.google.com/presentation/d/10lRbSYvTytbMXHKbrfy0t69vQyuKA8oc/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true`
-
-#Songs
-`https://drive.google.com/file/d/17CLgZaNeGfcsCkL2quNVx6Op3taXm9iT/view?usp=sharing`
+## DLD Course Outline
+`https://docs.google.com/document/d/126V-HXRmVgkfnUSn4s_sscOlt7dE_5Wm/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true`
