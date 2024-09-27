@@ -22,5 +22,5 @@ git push -u origin main
 
 `https://drive.google.com/file/d/1EET15Bk6SOj2E-DEoAPtj_uUjivt7fFx/view?usp=sharing`
 
-## UU Presentation Slide
+## Binary Search Presentation Slide
 `https://docs.google.com/presentation/d/1iAXrTFUbP8abFMTen45SlLMwXqqm7gp6gTXyyUURTFg/edit?usp=sharing`
